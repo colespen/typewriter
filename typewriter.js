@@ -9,8 +9,7 @@ const interval = setInterval(() => {
   if (!str.length) {
     clearInterval(interval);
   }
-}, 75);
-
+}, 15);
 
 // setTimeout(() => {
 //   console.log();
